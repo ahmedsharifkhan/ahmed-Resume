@@ -2,10 +2,6 @@ body {
   font-family: Arial, Helvetica, sans-sefit;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 #logo {
   max-height: 42px;
   margin-right: 10px;
