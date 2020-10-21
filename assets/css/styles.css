@@ -2,6 +2,10 @@ body {
   font-family: Arial, Helvetica, sans-sefit;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 #logo {
   max-height: 42px;
   margin-right: 10px;
@@ -33,18 +37,8 @@ body {
   border-radius: 20px;
   padding: 40px;
   background-color: rgba(255,255,255,0.75);
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
-}
-
-@media (min-width: 1200px) {
-  #promo .jumbotron {
-    border-radius: 20px;
-    padding: 90px;
-    background-color: rgba(255,255,255,0.75);
-    max-width: 800px;
-    margin: 0 auto;
-  }
 }
 
 @media (min-width: 576px) {
@@ -226,5 +220,13 @@ body {
 
 #footer ul li:nth_child(4) a:hover {
   background-color: #cd201f;
+}
+
+#why a {
+  background-color: rgb(154,189,207);
+}
+
+#towpic .card {
+  background-color: rgb(239,247,251);
 }
 
