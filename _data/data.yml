@@ -1,6 +1,6 @@
 name: Ahmed Sharif Khan
-subtitle: Digital Marketer 
-ahmed_image: https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0 
+subtitle: Digital Marketer
+ahmed_image: https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0
 
 # Sidebar
 contact:
@@ -12,8 +12,6 @@ contact:
   instagram: https://www.instagram.com/ahmedsharifkhannoor
   twitter: https://twitter.com/maxnoor87
   website: https://ahmedsharifkhan.github.io/
- 
-
 
 languages:
   - idiom: English
@@ -98,12 +96,41 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+Final-Year-Thesis:
+  - title:
+    supervisor: Md. Abdullah- Al- Masum
+    designation: Assistant Professor Department of Management
+
+course: 
+  - details: |
+      <li>Social Media Banner Design Graphic Designer by Dopementor.com (2023)</li>
+      <li>Digital Marketing, Google Ads, Facebook Ads and other by Skilluper.com (2022)</li>
+      <li>Digital Marketing Associate by Facebook. (2021)</li>
+      <li>Web Design for Everybody Authorized By the University of Michigan. (2020)</li>
+      <li>Open Source Leader Authorized By Common Purpose. (2020)</li>
+
+achievement: 
+  - title: Achievements & Activities
+    details: |
+      <li>25th Pacific-Asia Conference on Knowledge Discovery and Data Mining</li>
+      <li>Commonwealth- Common Purpose-Open Source Leader</li>
+
 projects:
   - title: Cool Project
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
+
+
+Core-Competencies:
+  - title: Cool Project
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+
 
   - title: Cool Project
     link: #

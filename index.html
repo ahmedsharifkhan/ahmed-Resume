@@ -131,34 +131,18 @@ layout: home
 
 									<div class="resume-timeline-item-header mb-2">
 										<div class="d-flex flex-column flex-md-row">
-											<h3 class="resume-position-title font-weight-bold mb-1">Co-Founder &
-												Lead Developer</h3>
+											<h3 class="resume-position-title font-weight-bold mb-1">Publication</h3>
 											<div class="resume-company-name ms-auto">To-do Lists</div>
 										</div><!--//row-->
 										<div class="resume-position-time">2015 - 2019</div>
 									</div><!--//resume-timeline-item-header-->
 									<div class="resume-timeline-item-desc">
-										<p>Role description goes here ipsum dolor sit amet, consectetuer adipiscing
-											elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-											penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
-											quam felis, ultricies nec.</p>
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-											ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-											dis parturient montes.</p>
-										<h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies
-											used:</h4>
-										<ul class="list-inline">
-											<li class="list-inline-item"><span
-													class="badge bg-secondary badge-pill">Django</span></li>
-											<li class="list-inline-item"><span
-													class="badge bg-secondary badge-pill">JavaScript</span></li>
-											<li class="list-inline-item"><span
-													class="badge bg-secondary badge-pill">Node.js</span></li>
-											<li class="list-inline-item"><span
-													class="badge bg-secondary badge-pill">Require.js</span></li>
-											<li class="list-inline-item"><span
-													class="badge bg-secondary badge-pill">HTML/SASS</span></li>
-										</ul>
+									
+										<h2>{{ site.data.data.publications[0].title }}</h2>
+										<p>Authors: {{ site.data.data.publications[0].authors }}</p>
+										<p>Conference: {{ site.data.data.publications[0].conference }}</p>
+										<a href="{{ site.data.publications[0].link }}">Visit</a>
+
 									</div><!--//resume-timeline-item-desc-->
 
 								</article><!--//resume-timeline-item-->
