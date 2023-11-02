@@ -2,22 +2,22 @@
     {
       "@context": "http://schema.org",
       "@type": "Person",
-      "name": "Your Name",
-      "url": "https://www.example.com/your-profile",
-      "image": "https://www.example.com/your-profile-image.jpg",
+      "name": "{{ site.data.data.name}}",
+      "url": "{{ site.baseurl }}",
+      "image": "{{ site.data.data.ahmed_image }}",
       "sameAs": [
-        "https://www.linkedin.com/in/your-linkedin-profile",
-        "https://twitter.com/your-twitter-handle",
-        "https://www.facebook.com/your-facebook-page",
-        "https://www.instagram.com/your-instagram-profile"
+        "{{ site.data.data.contact.linkedin }}",
+        "{{ site.data.data.contact.twitter }}",
+        "{{ site.data.data.contact.facebook }}",
+        "{{ site.data.data.contact.instagram }}",
+        "{{ site.data.data.contact.github }}"
       ],
-      "jobTitle": "Your Job Title",
+      "jobTitle": "{{ site.data.data.subtitle }}",
       "worksFor": {
-        "@type": "Organization",
-        "name": "Your Company Name",
+        "@type": "{{site.data.data.experience[0].organization }}",
+        "name": "{{site.data.data.experience[0].company }}",
         "url": "https://www.example.com/your-company-website"
       },
-      "description": "A brief description of yourself."
+      "description": "{{ site.data.data.profile }}"
     }
     </script>
-    
