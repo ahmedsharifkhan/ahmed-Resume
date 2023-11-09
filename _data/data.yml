@@ -222,9 +222,10 @@ other:
     # results: Results CGPA - 4.94 out of 5
     details: |
       <a href="tel:+8801710720118">017 107 201 18</a>
-      <a href="mailto:aamtonmoy@outlook.com">aamtonmoy@outlook.com</a><br>
+      <a href="mailto:aamtonmoy@outlook.com">aamtonmoy@outlook.com</a>
+      <a href="https://www.linkedin.com/in/aamtonmoy/"><b>Linkedin</b></a>
       
-  - title: 
+  - title:
     varsity: Digital Marketing Manager in Charge
     # link: #
     degree: Tahmina Akter
@@ -233,7 +234,8 @@ other:
     # results: Results CGPA - 4.94 out of 5
     details: |
       <a href="tel:+8801777129447">017 771 294 47</a>
-      <a href="mailto:mitutahmi@gmail.com">mitutahmi@gmail.com</a><br>
+      <a href="mailto:mitutahmi@gmail.com">mitutahmi@gmail.com</a>
+      <a href="https://www.linkedin.com/in/tahmi-mitu/"><b>Linkedin</b></a>
 
 
 course: 
