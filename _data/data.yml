@@ -1,5 +1,5 @@
 name: Ahmed Sharif Khan
-subtitle: Digital Marketer
+subtitle: Digital Marketer and Social Media Manager
 ahmed_image: https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0
 
 # Sidebar
@@ -54,6 +54,7 @@ experience:
   - role: Project Manager (PM)
     time: 2023-Present
     company: Ecomclips
+    url: https://ecomclips.com
     organization: IT
     details: |
       <div class="experience-details">
@@ -77,6 +78,7 @@ experience:
   - role: Researcher
     time: 2022-2023
     company: Microsoft
+    url: https://microsoft.com
     details: |
       THis company 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -86,21 +88,153 @@ experience:
     technologies_used: |
       Python, Tensorflow, Keras, Matlab, NextJs
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - role: Digital Marketer
+    time: 2021-2022
+    company: Amazon
+    url: https://amazon.com
+    details: |
+      THis company 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: |
+      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - role: Publications
+    time: 2020
+    company: Amazon
+    url: https://amazon.com
+    details: |
+      THis company 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: |
+      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
 
-Final-Year-Thesis:
-  - title:
-    supervisor: Md. Abdullah- Al- Masum
-    designation: Assistant Professor Department of Management
+  - role: Final-Year-Thesis
+    time: 2020
+    company: Md. Abdullah- Al- Masum
+    url: https://amazon.com
+    details: |
+      Assistant Professor Department of Management
+      THis company 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: |
+      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
+
+# Other Details
+other:
+  - title: EDUCATION
+    varsity: EXIM Bank Agricultural University Bangladesh
+    link: #
+    degree: Bachelor of Business Administration (BBA)
+    time: 2020
+    duration: Duration 4 years
+    results: Results CGPA - 3.23 out of 4
+    # tags: |
+    #   HTML CSS, JavaScript, Photoshop, Illustrator, Microsoft Office, Java, NextJs, Python, Django
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 
+    varsity: Nawabganj Govt. College
+    link: #
+    degree: Higher Secondary Certificate (HSC)
+    time: 2016
+    duration: Duration 2 years | Group Business
+    results: Results CGPA - 3.67 out of 5
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: 
+    varsity: Nayansuka R. K High School
+    link: #
+    degree: Secondary School Certificate (SSC)
+    time: 2020
+    duration: Duration 10 years | Group Science
+    results: Results CGPA - 4.94 out of 5
+    # details: |
+    #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #   tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Programming & Technologies
+    varsity: Website - Python and Django
+    # link: #
+    degree: Python HTML5, CSS, Javascript, SQL
+    # time: 2016
+    # duration: Duration 2 years | Group Business
+    # results: Results CGPA - 3.67 out of 5
+    # tags: |
+    #   SEO & SEM, Google Ads, Facebook Ads, Social Media Marketing, Google Analytics, Google tag manager, Email marketing, Video marketing, Content marketing
+    details: |
+      Digital Marketing: SEO & SEM, Google
+      Ads, Facebook Ads, Social Media
+      Marketing, Google Analytics, Google
+      tag manager, Email marketing, Video
+      marketing, Content marketing
+
+      Software: Git and Github, Microsoft
+      Office Suite, SPSS, Adobe
+      Illustrator, Canva, DaVinci Resolve
+
+
+  - title: L a n g u a g e
+    # varsity: Award Name Lorem
+    # link: #
+    # degree: Award Name Lorem
+    # time: 2020
+    # duration: Duration 10 years | Group Science
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      Bangla- Native
+      English- Good Working Knowledge
+
+  - title: I n t e r e s t s
+    # varsity: Award Name Ipsum
+    # link: #
+    # digre: Secondary School Certificate (SSC)
+    # time: 2020
+    # duration: Duration 10 years | Group Science
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      Artificial Intelligence
+      Data Science
+      Photography
+      Cloud computing
+      Online gaming
+      Traveling
+
+
+  - title: R e f e r e n c e
+    varsity: Sr. Executive of Digital Marketing and E-Commerce Operations
+    # link: #
+    degree: ABDULLAH AL MAMUN TONMOY
+    # time: 2020
+    duration: Art Lifestyle Ltd.
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      <a href="tel:+8801710720118">017 107 201 18</a>
+      <a href="mailto:aamtonmoy@outlook.com">aamtonmoy@outlook.com</a><br>
+      
+  - title: 
+    varsity: Digital Marketing Manager in Charge
+    # link: #
+    degree: Tahmina Akter
+    # time: 2020
+    duration: Ecomclips Ltd.
+    # results: Results CGPA - 4.94 out of 5
+    details: |
+      <a href="tel:+8801777129447">017 771 294 47</a>
+      <a href="mailto:mitutahmi@gmail.com">mitutahmi@gmail.com</a><br>
+
 
 course: 
   - details: |
@@ -110,41 +244,3 @@ course:
       <li>Web Design for Everybody Authorized By the University of Michigan. (2020)</li>
       <li>Open Source Leader Authorized By Common Purpose. (2020)</li>
 
-achievement: 
-  - title: Achievements & Activities
-    details: |
-      <li>25th Pacific-Asia Conference on Knowledge Discovery and Data Mining</li>
-      <li>Commonwealth- Common Purpose-Open Source Leader</li>
-
-projects:
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-
-Core-Competencies:
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
