@@ -43,11 +43,9 @@ skills:
 
 # Career Summary
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I am a highly motivated and dedicated professional seeking a challenging position in your company. I aim to utilize my data-driven decision-making & marketing knowledge while expanding my skill set and contributing to the success of the organizations
+  <br>
+  Resolutely ambitious and dedicated professional with a year of experience in Digital Marketing, E-commerce, and Social Media Management. Throughout my career, I have developed strong organizational and analytical skills, ensuring accuracy and efficiency in all tasks. My experience managing different projects has equipped me with a deep understanding of market dynamics and the ability to identify growth opportunities.
 
 # Experience
 experience:
@@ -58,75 +56,117 @@ experience:
     organization: IT
     details: |
       <div class="experience-details">
-        <h3 class="bold-title">Title: My Past Details</h3>
-        <h4 class="subtitle">Subtitle: Lorem ipsum dolor sit amet</h4>
+        <h6 class="subtitle">Duties/Responsibilities</h6>
         <p class="description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-          fugiat nulla pariatur.
+          Ecomclips is a data-driven eCommerce solution that specializes in digital marketing, branding, search engine optimization (SEO), and content creation.
         </p>
         <ul class="unordered-list">
-          <li>Item 1</li>
-          <li>Item 2</li>
+          <li>Improved processes, content, and lead generation with successful implementation.</li>
+          <li>Helped the content team with blog posts and promoting guest posts.</li>
+          <li>Delivered market research, forecasts, campaign outcomes, and consumer trends.</li>
+          <li>Produced over 20 Facebook posts and more than 50 Facebook and Google ads for diverse clients.</li>
+          <li>Designed and executed SEO strategies for nine different clients.</li>
+          <li>Set up Facebook Pixel, Google Analytics, and Tag Manager for multiple clients.</li>
+          <li>Effectively addressed various challenges related to Shopify, WordPress, and Google Merchant Center.</li>
         </ul>
       </div>
+    tagname: Technologies used
     technologies_used: |
-      Go, Angular, Typescript, C++
+      Digital Marketing, Social Medai Marketing, Google Ads, Facebook Ads, Google Tag Manager, Google Analytics
 
-  - role: Researcher
+  - role: Digital Marketing Manager
     time: 2022-2023
-    company: Microsoft
-    url: https://microsoft.com
+    company: All2Buy
+    url: https://www.facebook.com/all2buybd/
     details: |
-      THis company 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      <div class="experience-details">
+        <h6 class="subtitle">Duties/Responsibilities</h6>
+        <p class="description">
+          Implemented strategic lead generation enhancements, developed comprehensive marketing strategies for content
+          </p>
+          <p class="description">
+          Effectively leveraged influencers to enhance brand reach and drive higher levels of traffic and engagement
+          Supported content team with marketing guest blogs & posts. Developed strategy, amplified reach with influencers, increased traffic & engagement
+          </p>
+          <p class="description">
+          One of my key contributions was in developing a comprehensive marketing strategy for each piece of content. This involved identifying the target audience, selecting the most effective distribution channels, and creating compelling promotional materials like social media posts, email campaigns, and paid advertising.
+          </p>
+          <p class="description">
+          Provided consumer trends, marketing outcomes, and market research and projections
+          </p>
+          Set Up Tag Manager, Google Analytics, And Facebook Pixel For A Few Clients
+          <p class="description">
+          By setting up these powerful tools, I was able to help my clients gain a deeper understanding of their website traffic and user behavior. They can now track important metrics like page views, bounce rates, and conversion rates, and use this data to optimize their digital marketing strategies
+        </p>
+        <ul class="unordered-list">
+          <li>Successfully executed numerous campaigns on Clothing Brand, and Home and Kitchen items, resulting in improved sales and increased brand awareness</li>
+          <li>Developing and managing project plans, schedules, and budgets</li>
+          <li>Coordinating and leading cross-functional teams</li>
+          <li>Communicating with stakeholders and team members to ensure project success</li>
+          <li>Identifying and mitigating project risks</li>
+          <li>Ensuring project deliverables meet quality standards</li>
+          <li>Managing and reporting on project progress to stakeholders</li>
+          <li>Developing and maintaining relationships with clients and partners</li>
+          <li>Managing campaign changes and adapting campaign plans as necessary</li>
+          <li>Ensuring compliance with relevant laws, regulations, and industry standards</li>
+          <li>Managing project resources, including personnel and equipment</li>
+        </ul>
+      </div>
+    tagname: Technologies used
     technologies_used: |
-      Python, Tensorflow, Keras, Matlab, NextJs
-
-  - role: Digital Marketer
-    time: 2021-2022
-    company: Amazon
-    url: https://amazon.com
-    details: |
-      THis company 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: |
-      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
-
-  - role: Publications
-    time: 2020
-    company: Amazon
-    url: https://amazon.com
-    details: |
-      THis company 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: |
-      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
+      Digital Marketing, Social Medai Marketing, Google Ads, Facebook Ads, Google Tag Manager, Google Analytics
 
   - role: Final-Year-Thesis
     time: 2020
-    company: Md. Abdullah- Al- Masum
-    url: https://amazon.com
+    company: Elkjournals
+    url: https://www.elkjournals.com/journalcurrentissue.asp?JType=EAPJMRM&VType=11&IType=3
     details: |
-      Assistant Professor Department of Management
-      THis company 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      <div class="experience-details">
+        <h6 class="subtitle"> Active research with Md. Abdullah- Al- Masum <br>(Senior Lecturer)</h6>
+        <p class="description">
+          IMPACT OF COVID-19 ON PROMOTIONAL STRATEGIES OF PHARMACEUTICAL COMPANIES IN BANGLADESH 
+        </p>
+        <ul class="unordered-list">
+          <li>(Volume 11 Issue 3 (July – September 2020)</li>
+        </ul>
+      </div>
+
+  - role: 
+    time: 2021
+    company: EBAUB
+    url: https://ebaub.ac.bd/journal/ej/archive/vol3.html
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle"> Active research with Md. Abdullah- Al- Masum <br>(Senior Lecturer)</h6>
+        <p class="description">
+          Strategies to Fight against the downward Sales during COVID-19: Study on Pharmaceutical Companies in Bangladesh
+          <br>
+          Vice-chancellor: Professor Dr. A B M Rashedul Hassan
+          <br>
+          Md. Abdullah- Al- Masum (Senior Lecturer) 
+          <br>
+          Ahemd Sharif Khan
+        </p>
+        <ul class="unordered-list">
+          <li>EBAUB Journal Volume 3 January 2021</li>
+        </ul>
+      </div> 
+    tagname: Technologies used
     technologies_used: |
-      Python, Tensorflow, Keras, Matlab, NextJs, Ruby
+      Market Research, Data Collection, Data Analysis
+
+  - role: Extra Curricular Activities
+    time: 
+    company: 
+    url: 
+    details: |
+      <div class="experience-details">
+        <h6 class="subtitle"></h6>
+        <p class="description">
+          As a dedicated hockey player, I have participated in numerous activities related to the sport, including training camps, tournaments, and volunteering. Additionally, I have worked in varsity day management, where I further honed my organizational skills and teamwork. Through these experiences, I have developed a strong work ethic and a passion for teamwork and physical fitness.
+        </p>
+      </div> 
+
 
 # Other Details
 other:
@@ -168,7 +208,7 @@ other:
   - title: Programming & Technologies
     varsity: Website - Python and Django
     # link: #
-    degree: Python HTML5, CSS, Javascript, SQL
+    # degree: Python HTML5, CSS, Javascript, SQL
     # time: 2016
     # duration: Duration 2 years | Group Business
     # results: Results CGPA - 3.67 out of 5
@@ -211,6 +251,8 @@ other:
       Cloud computing
       Online gaming
       Traveling
+      Trends
+      Entrepreneurship
 
 
   - title: R e f e r e n c e
@@ -225,7 +267,7 @@ other:
       <a href="mailto:aamtonmoy@outlook.com">aamtonmoy@outlook.com</a>
       <a href="https://www.linkedin.com/in/aamtonmoy/"><b>Linkedin</b></a>
       
-  - title:
+  - title: 
     varsity: Digital Marketing Manager in Charge
     # link: #
     degree: Tahmina Akter

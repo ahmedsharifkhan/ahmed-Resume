@@ -80,8 +80,7 @@ layout: home
 									<div class="resume-timeline-item-desc">
 										<p>{{ exp.details | markdownify }}</p>
 
-										<h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies
-											used:</h4>
+										<h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ exp.tagname }}</h4>
 										<ul class="list-inline">
 											{% assign technologies = exp.technologies_used | split: ", " %}
 											{% for technology in technologies %}
